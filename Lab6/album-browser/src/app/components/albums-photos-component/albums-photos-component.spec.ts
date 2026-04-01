@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { AlbumsPhotosCompoenent } from './albums-photos-compoenent';
+import { AlbumsPhotosCompoenent } from '/Users/arsenshakirov/web_dev/Web-Dev/Lab6/album-browser/src/app/components/albums-photos-component';
 
 describe('AlbumsPhotosCompoenent', () => {
   let component: AlbumsPhotosCompoenent;
